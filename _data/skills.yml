@@ -1,10 +1,10 @@
-header: Say something about what you're good at
+header: I'm good at ...
 
 subheader: Give some more context
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Communication
+    description: I like to foster open communication between myself and others
 
   - name: Skill 2
     description: A quick sentence or two describing your skill

@@ -1,13 +1,17 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Major Qualifying Project (MQP)
+  description: My team and I continued the development of a humaniod robot. Our goals
+  included creating a user friendly interface to control the robot, simulating the robot, and 
+  allowing the robot to stand with no assistance.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Pathfinding Application for Brigham and Womeen's Hospital
+  description: My team of 10 members and I created an application for Brigham and Women's Hospital
+  allowing users to navigate through the campus with the help of our app, and allow
+  administrators to submit, track, and complete service requests.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: "Rossetta Code"
+  description: A team and I designed a full stack application using AWS to serve as a "Rossetta Code"
+  platform where users could upload classifications, algorithms, and implementations of algorithms
+  in different programming languages. 
 
-- name: Project 4
-  description: A few sentences describing your project.
